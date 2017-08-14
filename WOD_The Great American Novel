@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Great American Novel</title>
+</head>
+<body>
+
+<h1>The Great American Novel</h1>
+
+<ol type="I">
+	<li>Introduction</li>
+	<ol>
+		<li type="A">Boy's childhood</li>
+		<li type="A">Girl's childhood</li>
+	</ol>
+	<li>Development</li>
+	<ol>
+		<li type="A">Boy meets Girl</li>
+		<li type="A">Boy and Girl fall in love</li>
+		<li type="A"> Boy and Girl have fight</li>
+	</ol>
+	<li>Climax</li>
+	<ol>
+		<li type="A">Boy gives Girl ultimatum</li>
+		<ol>
+			<li>Girl cant believe her eyes</li>
+			<li>Boy is indignant at Girl's indignance</li>
+		</ol>
+		<li type="A">Girl tells Boy to get lost</li>
+	</ol>
+	<li>Denoument</li>
+	<li>Epilogue</li>
+</ol>
+
+</body>
+</html>
