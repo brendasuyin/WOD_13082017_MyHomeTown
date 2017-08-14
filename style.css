@@ -1,0 +1,110 @@
+body {
+	background-color: rgb(179,249,245); 
+	background-image:url(http://cdn.star2.com/wp-content/uploads/2016/05/str2_mingcaltex_4_mingteoh.jpg);
+}
+
+
+h1{
+	font-size:42px;
+	font-family:georgia;
+	color:#f95127;
+	text-align:center;
+}
+
+h2{
+	font-size:36px;
+	font-family:georgia;
+	color:rgba(6, 27, 76, 1);
+	text-align:center;
+}
+
+
+p, a 
+{
+	font-size:14px;
+	font-family:arial;
+	color:white;
+	text-align:center;
+}
+
+
+h4, ul li, ol li{
+	font-size:14px;
+	font-family:arial;
+	color:white;
+}
+
+
+ul
+{
+	border-radius: 25px;
+	background: rgb(9, 132, 91);
+	padding-top: 1px;
+	padding-bottom: 0px: 
+	width: 500px;
+	height: 160px;
+
+}
+
+ul a
+{font-size:12px;}
+
+ol
+{
+	border-radius: 25px;
+	background: rgb(9, 132, 91);
+	padding-top: 1px;
+	padding-bottom: 0px:
+	width: 500px;
+	height: 150px;
+}
+
+h4
+{
+	color:yellow;
+}
+
+table 
+{
+	border-collapse: collapse;
+	font-size:12px;
+	
+}
+
+th
+{
+	background-color:rgb(29, 114, 83);
+	font-size:14px;
+	color: white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border: 1px dashed ;
+	
+}
+
+td
+{
+	font-size:14px;
+	color: black;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border: 1px dashed #dddddd;
+
+	}
+
+tr:nth-child(even)
+{background-color: rgb(226, 226, 217)}
+
+tr:nth-child(odd)
+{background-color: white}
+
+tr:hover
+{
+	background-color: 
+}
+
+img 
+{
+ border-radius: 25px;
+}
+
